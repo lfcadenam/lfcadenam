@@ -1,14 +1,14 @@
 # Hi there, I'm Luis Fernando Cadena 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+Python+Enthusiast;Building+Scalable+Web+%26+SaaS+Platforms;Backend+Engineering+%26+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+Python+Enthusiast;Building+Scalable+Web+%26+SaaS+Platforms;Backend+Engineering+%26+Database+Architecture" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### 👨‍💻 Sobre mí
 - 🚀 **Desarrollador de Software** enfocado en el desarrollo de aplicaciones web, plataformas SaaS y arquitecturas backend.
-- 🛠️ Experiencia construyendo soluciones con **Python**, diseño de APIs REST, modelado relacional y procesamiento de datos.
+- 🛠️ Experiencia construyendo soluciones con **Python**, diseño de APIs REST, modelado relacional y administración de bases de datos.
 - 💡 Desarrollador y co-creador de plataformas en la nube como **StoreControl** (gestión y control comercial para negocios).
 - 📍 Ubicado en **Bogotá, Colombia**.
 - 🎯 Siempre explorando nuevas herramientas, optimización de consultas y despliegues en la nube.
@@ -26,12 +26,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### Bases de Datos & Analítica
+#### Bases de Datos
 <p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </p>
 
 #### Entorno & Herramientas
