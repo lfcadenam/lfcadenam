@@ -1,29 +1,39 @@
 # Hi there, I'm Luis Fernando Cadena 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+Python+Enthusiast;Building+Scalable+Web+%26+SaaS+Platforms;Backend+Engineering+%26+Database+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web+%26+SaaS+Solutions;Frontend%3A+Angular+%7C+React+%7C+TypeScript;Backend%3A+Python+(FastAPI)+%7C+PHP+(Laravel);Databases%3A+Oracle+%7C+PostgreSQL+%7C+MySQL" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### 👨‍💻 Sobre mí
-- 🚀 **Desarrollador de Software** enfocado en el desarrollo de aplicaciones web, plataformas SaaS y arquitecturas backend.
-- 🛠️ Experiencia construyendo soluciones con **Python**, diseño de APIs REST, modelado relacional y administración de bases de datos.
-- 💡 Desarrollador y co-creador de plataformas en la nube como **StoreControl** (gestión y control comercial para negocios).
+- 🚀 **Desarrollador Full Stack** con experiencia en la conceptualización, desarrollo y despliegue de plataformas web y soluciones SaaS escalables.
+- 🎨 **Frontend:** Construcción de interfaces dinámicas, responsivas y modulares utilizando **Angular**, **React**, **TypeScript** y JavaScript moderno.
+- ⚙️ **Backend:** Diseño e integración de APIs REST robustas y servicios backend con **Python (FastAPI)** y **PHP (Laravel)**.
+- 🗄️ **Bases de Datos:** Modelado, administración y optimización de bases de datos relacionales en **Oracle Database**, **PostgreSQL** y **MySQL**.
+- 💡 Co-creador de plataformas en la nube como **StoreControl** (soluciones de gestión y control comercial).
 - 📍 Ubicado en **Bogotá, Colombia**.
-- 🎯 Siempre explorando nuevas herramientas, optimización de consultas y despliegues en la nube.
 
 ---
 
 ### 💻 Stack Tecnológico & Herramientas
 
-#### Lenguajes & Backend
+#### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+#### Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
 #### Bases de Datos
@@ -33,7 +43,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-#### Entorno & Herramientas
+#### Entorno & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
